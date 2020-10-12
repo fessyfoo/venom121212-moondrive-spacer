@@ -17,11 +17,19 @@ trucks this spacing varies from truck to truck.
 version in OpenSCAD as well as a batch1 version.  and generated a range of sizes.
 
 
+# STLs
+
 STLs are available in the [STL subdirectory](./STL)
+
+# images
 
 ![venom spacer.jpg](images/venom_spacer.jpg)
 ![spacer2.jpeg](images/spacer2.jpeg)
 ![batch1 spacer less than 6mm](images/batch1_spacer_less_than_6mm.jpeg)
 ![batch1 spacer more than 6mm](images/batch1_spacer_more_than_6mm.jpeg)
 ![batch1 wheel plate](images/batch1_wheel_plate.jpeg)
+
+# license CC BY-SA
+
+Licensed under the Creative Commons Attribution-shareAlike 4.0
 
